@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="client_id">njL69hj_TgvWFi2WGBuq</string>
+    <string name="client_secret">RpwaUTAHVw</string>
+    <string name="client_name">sample_sns_login</string>
+</resources>
